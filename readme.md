@@ -31,7 +31,3 @@ Query optimization and the utilization of procedures are fundamental techniques 
 ### Case Study
 
 A practical case study can be conducted to evaluate the impact of the implemented techniques on system performance. This would involve comparing query response times before and after optimization, as well as assessing the ease of use and effectiveness of procedures in data manipulation. This practical analysis would help validate the effectiveness of the techniques used and identify possible areas of continuous improvement in the e-commerce database system.
-
----
-
-I hope this report provides a comprehensive overview of the techniques used and their benefits in the context of query optimization and data manipulation in an e-commerce database. If you need anything else, I'm here to help!
